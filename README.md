@@ -20,3 +20,10 @@ A modular, error-resistant Command Line Interface (CLI) note-taking application 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/tahaatay/PythonProject.git](https://github.com/tahaatay/PythonProject.git)
+   Navigate to the project directory:
+Bash
+cd PythonProject
+Run the script:
+
+Bash
+python Main.py
